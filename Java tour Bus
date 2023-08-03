@@ -1,0 +1,106 @@
+package firstApplication;
+import java.util.Scanner;
+
+public class helloworld {
+	public static void main(String[] arg) {
+		
+		Scanner scan = new Scanner(System.in);
+		String name, destination;
+		int age, busclass, payment;
+
+		
+		
+		System.out.println("BUSS ERA TOURS NI RHENZ\n");
+
+		
+		System.out.println("BUS REGISTRATION FORM");
+		
+		System.out.print("Name: ");
+		name = scan.nextLine();
+		
+		System.out.print("Destination: ");
+		destination= scan.nextLine();
+		
+		
+		System.out.print("Age: ");
+		age = scan.nextInt();{
+			if (age >= 60) {
+				System.out.println("--20% Discount Activated--");
+			}else if(age >= 18){
+				System.out.println("--Adult--");
+			}else if(age >= 0) {
+				System.out.println("--Minor--");
+			}
+		}
+		int classA = 45000;
+		int classB = 30000;
+		int classC = 17000;
+		int tryammount = 0;
+		
+		
+		System.out.println("\nBus Class");
+		System.out.println("\t(1 Class (A): 45000 Pesos ");
+		System.out.println("\t(2) Class (B): 30000 Pesos ");
+		System.out.println("\t(3) Ordinary:  17000 Pesos ");
+		System.out.print("Chosen Class: ");
+		busclass = scan.nextInt();
+			if(busclass == 3) {
+				System.out.println("--ORDINARY BUSS--");
+				while(tryammount < 3) {
+				System.out.print("\nPayment Amount: ");
+				payment = scan.nextInt();{
+					if(payment >= 45000) {
+						System.out.print("\nPayment Successful ");
+						System.out.println("--ORDINARY BUSS ACTIVATED--");
+						break;
+					}else System.out.println("Sorry, Insufficient Amount.");
+					tryammount++;
+				}
+				if(tryammount == 3) {
+					System.out.println("+++Sorry you don't have enough Money+++");
+				}
+				
+				
+				}
+			}else if(busclass == 2) {
+				System.out.println("--CLASS B--");
+				while(tryammount < 3) {
+				System.out.print("\nPayment Amount: ");
+				payment = scan.nextInt();{
+					if(payment >= 30000) {
+						System.out.print("\nPayment Successful ");
+						System.out.println("--CLASS B ACTIVATED--");
+						break;
+					}else System.out.println("Sorry, Insufficient Amount.");
+					tryammount++;
+				}
+				if(tryammount == 3) {
+					System.out.println("+++Sorry you don't have enough Money+++");
+				}
+				
+				
+				}
+			}else if(busclass == 1) {
+				System.out.println("--CLASS A--");
+				while(tryammount < 3) {
+				System.out.print("\nPayment Amount: ");
+				payment = scan.nextInt();{
+					if(payment >= 17000) {
+						
+						System.out.print("\nPayment Successful ");
+						System.out.println("--CLASS A ACTIVATED--");
+						break;
+					}else System.out.println("Sorry, Insufficient Amount.");
+					tryammount++;
+				}
+				if(tryammount == 3) {
+					System.out.println("+++Sorry you don't have enough Money+++");
+				}
+			}
+		
+			
+			
+		
+	}
+}
+	}
