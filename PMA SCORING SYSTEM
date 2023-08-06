@@ -1,0 +1,25 @@
+package firstApplication;
+import java.util.Scanner;
+
+public class helloworld {
+	public static void main(String[] arg) {
+		
+		Scanner scan = new Scanner(System.in);
+		
+		
+		int items = 1;
+		System.out.println("FUTURE PMA CADET GOODLUCK TO YOUR EXAM");
+		String num = scan.nextLine();{
+			if("THANK YOU".equals(num)) {
+				while(items < 151) {
+					System.out.print("\nNumber " +items + ":");
+					String itemss = scan.nextLine();
+					items++;
+				}
+			}
+			
+		}
+		
+}
+}
+	
