@@ -1,7 +1,7 @@
-package firstApplication;
+
 import java.util.Scanner;
 
-public class helloworld {
+public class BankingSystem {
 	public static void main(String[] arg) {
 		
 		Scanner scan = new Scanner(System.in);
@@ -11,7 +11,7 @@ public class helloworld {
 		String username = "Rhenz";
 		String password = "rhenzganotice";
 		int money = 1000000;
-		
+		System.out.println("HELLO WORLD HELLO SHAMMY");
 		System.out.print("BANKING SYSTEM\n");
 		
 		
