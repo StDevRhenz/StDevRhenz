@@ -24,8 +24,9 @@ I'm a 3rd-year Computer Science student.
 ---
 
 ## 🌐 My Portfolio
-📎 [Visit My Website](https://rhenzportfolio.vercel.app/)
 
----
-
-> *"Consistency beats motivation. Keep coding!"*
+<p align="center">
+  <a href="https://rhenzportfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Button"/>
+  </a>
+</p>
