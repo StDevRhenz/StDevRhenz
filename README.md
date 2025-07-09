@@ -1,6 +1,7 @@
-# Hi there 👋 I'm Rhenz
-
-I'm a 3rd-year Computer Science student.
+<p align="center">
+  <h1 align="center">Hi there 👋 I'm Rhenz</h1>
+  <p align="center">I'm a 3rd-year Computer Science student.</p>
+</p>
 
 ---
 
@@ -14,7 +15,6 @@ I'm a 3rd-year Computer Science student.
 ---
 
 ## 🔥 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=StDevRhenz&theme=vue-dark&hide_border=true" alt="Streak Stats" />
   <br/>
@@ -24,7 +24,6 @@ I'm a 3rd-year Computer Science student.
 ---
 
 ## 🌐 My Portfolio
-
 <p align="center">
   <a href="https://rhenzportfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Visit Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Button"/>
