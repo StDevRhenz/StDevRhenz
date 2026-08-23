@@ -3,7 +3,10 @@
     <img src="https://img.shields.io/badge/Visit%20Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 
-  <img src="https://komarev.com/ghpvc/?username=StDevRhenz&label=Profile%20Views&style=for-the-badge" />
+  <img
+    src="https://viewcounter.live/StDevRhenz?unique=true&label=Unique%20Visitors&rounded=true"
+    alt="Unique Visitors"
+  />
 </p>
 
 
