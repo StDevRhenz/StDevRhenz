@@ -4,8 +4,8 @@
   </a>
 
   <img
-    src="https://viewcounter.live/StDevRhenz?unique=true&label=Unique%20Visitors&rounded=true"
-    alt="Unique Visitors"
+    src="https://komarev.com/ghpvc/?username=StDevRhenz&label=Profile%20Views&style=for-the-badge"
+    alt="Profile Views"
   />
 </p>
 
