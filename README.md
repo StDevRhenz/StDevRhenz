@@ -1,8 +1,9 @@
 <p align="center">
-  <a href="https://rhenzportfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Button"/>
+  <a href="https://rhenzportfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Visit%20Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=StDevRhenz&label=Profile%20Views" alt="Profile Views"/>
+
+  <img src="https://komarev.com/ghpvc/?username=StDevRhenz&label=Profile%20Views&style=for-the-badge" />
 </p>
 
 
