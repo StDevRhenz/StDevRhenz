@@ -1,12 +1,11 @@
 <p align="center">
   <a href="https://rhenzportfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Visit%20Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Visit%20Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
+</p>
 
-  <img
-    src="https://komarev.com/ghpvc/?username=StDevRhenz&label=Profile%20Views&style=for-the-badge"
-    alt="Profile Views"
-  />
+<p>
+  <img src="https://komarev.com/ghpvc/?username=StDevRhenz&label=Profile%20Views&style=for-the-badge" alt="Profile Views" />
 </p>
 
 
