@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<p>
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=StDevRhenz&label=Profile%20Views&style=for-the-badge" alt="Profile Views" />
 </p>
 
