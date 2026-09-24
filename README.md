@@ -48,18 +48,6 @@
   <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/></a>
   <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/></a>
 </p>
-
----
-
-## 🔥 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StDevRhenz&theme=vue-dark&hide_border=true" alt="Streak Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=StDevRhenz&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StDevRhenz&layout=compact&theme=vue-dark&hide_border=true" alt="Top Languages" />
-</p>
-
 ---
 
 ## 🧠 Contribution Graph
