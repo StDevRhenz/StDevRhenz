@@ -9,7 +9,7 @@
 </p>
 
 
-## 🛠️ Focus Tech Stack (2025)(ML)
+## Focus Tech Stack (2026)(ML)
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,laravel,pytorch,py,js,java,tensorflow" />
@@ -48,13 +48,6 @@
   <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/></a>
   <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/></a>
 </p>
----
-
-## 🧠 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=StDevRhenz&theme=vue-dark&hide_border=true" alt="GitHub Activity Graph"/>
-</p>
-
 ---
 
 
